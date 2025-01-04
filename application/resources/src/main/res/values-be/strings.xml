@@ -166,7 +166,7 @@
 
     <string name="favorites_edit">Рэдагаванне</string>
     <string name="encountered_error_title">Памылка прайгравання</string>
-    <string name="encountered_error_message">У VLC узніклі цяжкасці з гэтым медыя-аб’ектам.\nПаспрабуйце абнавіць медыятэку.</string>
+    <string name="encountered_error_message">У THDPlayer узніклі цяжкасці з гэтым медыя-аб’ектам.\nПаспрабуйце абнавіць медыятэку.</string>
     <string name="invalid_location">Немагчыма прайграць месца %1$s</string>
     <string name="search">Шукаць</string>
 
@@ -186,7 +186,7 @@
     <string name="hold_to_stop">Утрымлівайце, каб спыніць</string>
 
     <!-- About -->
-    <string name="app_name_full">VLC для Android</string>
+    <string name="app_name_full">THDPlayer</string>
     <string name="revision">Рэвізія</string>
     <string name="about">Аб праграме</string>
     <string name="feedback_forum">Форум</string>
@@ -269,12 +269,12 @@
     <string name="dump_logcat">Дамп часапісу logcat</string>
     <string name="dump_logcat_success">Дапм logcat паспяхова запісаны ў %1$s!</string>
     <string name="dump_logcat_failure">Не ўдалося стварыць дамп logcat.</string>
-    <string name="custom_libvlc_options">Дадатковыя параметры libVLC</string>
-    <string name="custom_libvlc_options_invalid">Недапушчальныя параметры libVLC</string>
+    <string name="custom_libvlc_options">Дадатковыя параметры lib>THDPlayer</string>
+    <string name="custom_libvlc_options_invalid">Недапушчальныя параметры lib>THDPlayer</string>
 
-    <string name="serious_crash">На жаль, здарылася сур’ёзная памылка і VLC давялося закрыцца.</string>
-    <string name="help_us_send_log">Дапамажыце палепшыць VLC, адправіўшы гэтую справаздачу:</string>
-    <string name="restart_vlc">Перазапусціць VLC</string>
+    <string name="serious_crash">На жаль, здарылася сур’ёзная памылка і THDPlayer давялося закрыцца.</string>
+    <string name="help_us_send_log">Дапамажыце палепшыць THDPlayer, адправіўшы гэтую справаздачу:</string>
+    <string name="restart_vlc">Перазапусціць >THDPlayer</string>
     <string name="send_log">Адправіць часапіс</string>
     <string name="sending_log">Адпраўка часапісу…</string>
 
@@ -293,7 +293,7 @@
     <string name="medialibrary">Медыятэка</string>
     <string name="medialibrary_directories">Папкі медыятэкі</string>
 
-    <string name="exit_app">Закрыць VLC</string>
+    <string name="exit_app">Закрыць >THDPlayer</string>
     <!-- fast scroller -->
     <string name="fastscroller_track">Хуткае прагортванне</string>
     <string name="fastscroller_handle">Хуткае прагортванне</string>
@@ -328,7 +328,7 @@
     <string name="ctx_player_video_track">Відэадарожка</string>
     <string name="ctx_player_audio_track">Аўдыядарожка</string>
     <string name="ctx_player_subs_track">Дарожка субтытраў</string>
-    <string name="welcome_title">Вітаем у VLC!</string>
+    <string name="welcome_title">Вітаем у THDPlayer!</string>
     <string name="done">Гатова</string>
     <string name="light_theme">Светлая тэма</string>
     <string name="add">Дадаць</string>

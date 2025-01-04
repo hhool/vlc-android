@@ -192,7 +192,7 @@
     <string name="streams">धाराएं</string>
     <string name="open_mrl_dialog_msg">नेटवर्क पता बताएं : उदाहरण : http://, mms:// या rtsp://</string>
     <string name="encountered_error_title">प्लेबैक में त्रुटि</string>
-    <string name="encountered_error_message">VLC को इस मीडिया के साथ एक त्रुटि का सामना करना पड़ा.\nकृपया मीडिया लाइब्रेरी को ताजा करें.</string>
+    <string name="encountered_error_message">THDPlayer को इस मीडिया के साथ एक त्रुटि का सामना करना पड़ा.\nकृपया मीडिया लाइब्रेरी को ताजा करें.</string>
     <string name="invalid_location">फाइल \'%1$s\' को नहीं चलाया जा सकता।</string>
     <string name="missing_location">यह मीडिया अनुपलब्ध संग्रहण से है और इसे चलाया नहीं जा सकता।</string>
 
@@ -226,10 +226,10 @@
     <string name="hold_to_stop">रोकने के लिए पकड़ कर रखें</string>
 
     <!-- About -->
-    <string name="app_name_full">ऐंडरॉयड के लिए VLC</string>
+    <string name="app_name_full">THDPlayer</string>
     <string name="revision">संशोधन</string>
     <string name="about">के संबंध में</string>
-    <string name="vlc_authors">और VLC रचयिता</string>
+    <string name="vlc_authors">और THDPlayer रचयिता</string>
     <string name="feedback_forum">प्रतिक्रिया मंच</string>
 
     <!-- Preferences -->
@@ -349,7 +349,7 @@
 
     <string name="permission_ask_again">अनुमति प्रदान करें</string>
     <string name="permission_not_granted">अनुमति नहीं मिली</string>
-    <string name="exit_app">VLC बन्द करें</string>
+    <string name="exit_app">THDPlayer बन्द करें</string>
     <!-- Plugins -->
     <string name="plugins">प्लग-इन्स</string>
     <string name="download_on_device">डाउनलोड करें</string>
