@@ -47,7 +47,7 @@
     <string name="play_as_video">Spel av som video</string>
     <string name="return_to_video">Langtrykk på omslaget for å tilbakestilla videoen</string>
     <string name="video_app_switch_title">Bakgrunn/BiB-modus</string>
-    <string name="video_app_switch_summary">Vel VLC-oppførsel når du byter frå videoavspeling til ein annan app.</string>
+    <string name="video_app_switch_summary">Vel THDPlayer-oppførsel når du byter frå videoavspeling til ein annan app.</string>
     <string name="play_pip_title">Spelar videoar i bilde-i-bilde modus</string>
     <string name="play_as_audio_background">Spelar videoar i bakgrunnen</string>
     <string name="append">Legg til i spelekø</string>
@@ -211,7 +211,7 @@
     <string name="streams">Straumar</string>
     <string name="open_mrl_dialog_msg">Skriv inn nettverkadresse: t.d. http://, mms:// or rtsp://</string>
     <string name="encountered_error_title">Avspelingsfeil</string>
-    <string name="encountered_error_message">VLC oppdaga ein feil med dette mediet.\nPrøv å oppdatere mediebiblioteket.</string>
+    <string name="encountered_error_message">THDPlayer oppdaga ein feil med dette mediet.\nPrøv å oppdatere mediebiblioteket.</string>
     <string name="invalid_location">Plasseringa %1$skan ikkje spelast.</string>
     <string name="missing_location">Dette mediet er frå ei utilgjengeleg lagring og kan ikkje spelast av.</string>
 
@@ -264,7 +264,7 @@
     <string name="hold_to_stop">Hald for å stoppe</string>
 
     <!-- About -->
-    <string name="app_name_full">VLC for Android</string>
+    <string name="app_name_full">THDPlayer</string>
     <string name="revision">Revisjon</string>
     <string name="about">Om</string>
     <string name="is_compiled_by">Sett saman av</string>
@@ -411,8 +411,8 @@
     <string name="music_now_playing">Spelar no</string>
 
     <string name="click_here">Trykk her for å lesa meir.</string>
-    <string name="exit_app">Avslutt VLC</string>
-    <string name="exit_app_msg">Er du sikker på at du vil avslutta VLC?</string>
+    <string name="exit_app">Avslutt >THDPlayer</string>
+    <string name="exit_app_msg">Er du sikker på at du vil avslutta THDPlayer?</string>
     <!-- Plugins -->
     <string name="plugins">Programtillegg</string>
     <string name="download_on_device">Last ned</string>
@@ -434,7 +434,7 @@
     <string name="videos_all">Alle videoar</string>
     <string name="resume">Fortset</string>
     <string name="length">Lengde</string>
-    <string name="ml_external_storage_msg">Vil du at VLC skal leggja til eininga %1$s til mediebiblioteket ditt?</string>
+    <string name="ml_external_storage_msg">Vil du at THDPlayer skal leggja til eininga %1$s til mediebiblioteket ditt?</string>
     <string name="ml_external_storage_accept">Ja</string>
     <string name="ml_external_storage_decline">Nei</string>
     <string name="auto_last_added_media">Sist lagt til</string>
@@ -485,7 +485,7 @@
     <string name="videos_groups_title">Videogrupper</string>
     <string name="video_remote_disable">Dupliser skjerm</string>
     <string name="removed_from_playlist_anonymous">Objekt fjerna frå speleliste</string>
-    <string name="welcome_title">Velkomen til VLC!</string>
+    <string name="welcome_title">Velkomen til THDPlayer!</string>
     <string name="done">Ferdig</string>
     <string name="button_medialibrary_preferences">Gå til innstillingar for mediebiblioteket</string>
     <string name="add">Legg til</string>
@@ -503,7 +503,7 @@
     <string name="reset">Nullstill</string>
     <string name="remove_current">Fjern gjeldande</string>
     <string name="display_settings">Visingsinnstillingar</string>
-    <string name="welcome_beta_title">VLC Beta</string>
+    <string name="welcome_beta_title">THDPlayer Beta</string>
     <string name="send">Send</string>
     <string name="send_crash_action_title">Kva vil du gjera?</string>
     <string name="report_a_bug">Rapporter feil</string>
@@ -529,8 +529,8 @@
     <string name="open_network_settings">Opna ettverksinnstillingar?</string>
     <string name="recently_played">Nyleg spelt</string>
     <string name="recently_added">Nyleg lagt til</string>
-    <string name="clear_media_db_message">Du vil mista framstega dine, bokmerka og spelelister du har laga men du vil behalda innstillingane dine for VLC for Android.</string>
-    <string name="clear_app_data_message">Du vil mista framstega dine, bokmerke, spelelister og alle VLC-innstillingane</string>
+    <string name="clear_media_db_message">Du vil mista framstega dine, bokmerka og spelelister du har laga men du vil behalda innstillingane dine for THDPlayer.</string>
+    <string name="clear_app_data_message">Du vil mista framstega dine, bokmerke, spelelister og alle THDPlayer-innstillingane</string>
     <string name="video_information">Videoinformasjon</string>
 
     <string name="channels">Kanalar</string>
@@ -566,10 +566,10 @@
     <string name="sub_result_by_name_season">Sesong %s</string>
     <string name="sub_result_by_name_episode">Episode %s</string>
 
-    <string name="donate">Hjelp VLC</string>
+    <string name="donate">Hjelp >THDPlayer</string>
     <string name="air_action_play_pause">Pause/Fortset avspeling</string>
     <string name="allow_otg">Tillat OTG-tilgang</string>
-    <string name="allow_otg_description">Vel OTG-eining for å tillate tilgang til VLC.</string>
+    <string name="allow_otg_description">Vel OTG-eining for å tillate tilgang til THDPlayer.</string>
     <string name="go_to_folder">Bla gjennom overordna mappe</string>
     <string name="missing_media_snack">Medium manglar. Gøyma alle manglande media?</string>
     <string name="browser_show_missing_media">Vis manglande medium</string>
@@ -582,7 +582,7 @@
     <string name="search_prefs">Søk i innstillingar</string>
     <string name="bookmarks_title">Bokmerke</string>
     <string name="show">Vis</string>
-    <string name="start_vlc">Start VLC</string>
+    <string name="start_vlc">Start >THDPlayer</string>
     <string name="jump_delay_summary">%s sekund</string>
     <string name="move_up">Flytt opp</string>
     <string name="move_down">Flytt ned</string>
@@ -603,7 +603,7 @@
     <string name="opacity">Ugjennomskinlegheit</string>
     <string name="widget_background">Bakgrunn</string>
     <string name="widget_foreground">Framgrunn</string>
-    <string name="open_vlc">Opne VLC</string>
+    <string name="open_vlc">Opne >THDPlayer</string>
     <string name="playing">Spelar</string>
     <string name="disabled">Deaktivert</string>
     <string name="enable_screenshot_button_and_gesture">Knapp og rørsle</string>

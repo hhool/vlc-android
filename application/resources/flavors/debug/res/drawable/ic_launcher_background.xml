@@ -13,20 +13,20 @@
                 android:startX="54"
                 android:startY="0"
                 android:type="linear">
-                <!-- green200 from top to green500 54% stop -->
+                <!-- orange300 from top to orange500 54% stop -->
                 <item
-                    android:color="@color/green200"
+                    android:color="@color/white"
                     android:offset="0.0" />
                 <item
-                    android:color="@color/green500"
+                    android:color="@color/white"
                     android:offset="0.54" />
-                <!-- green600 to 72% stop -->
+                <!-- orange700 to 72% stop -->
                 <item
-                    android:color="@color/green600"
+                    android:color="@color/white"
                     android:offset="0.72" />
-                <!-- green800 to bottom -->
+                <!-- orange900 to bottom -->
                 <item
-                    android:color="@color/green800"
+                    android:color="@color/white"
                     android:offset="1.0" />
             </gradient>
 

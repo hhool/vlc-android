@@ -49,7 +49,7 @@
     <string name="play_as_video">Predvajaj kot video</string>
     <string name="return_to_video">Dolg pritisk na naslovnico obnovi video</string>
     <string name="video_app_switch_title">V ozadju/slika v sliki</string>
-    <string name="video_app_switch_summary">Določite obnašanje VLC med preklopom na drugo aplikacijo, ko se predvaja video.</string>
+    <string name="video_app_switch_summary">Določite obnašanje THDPlayer med preklopom na drugo aplikacijo, ko se predvaja video.</string>
     <string name="play_pip_title">Predvajaj video v načinu slika-v-sliki</string>
     <string name="play_as_audio_background">Predvajaj video posnetke v ozadju</string>
     <string name="append">Dodaj za predvajanje čakalne vrste</string>
@@ -235,7 +235,7 @@
     <string name="streams">Pretoki</string>
     <string name="open_mrl_dialog_msg">Omrežni naslov http://, mms:// ali rtsp://.</string>
     <string name="encountered_error_title">Napaka pri predvajanju</string>
-    <string name="encountered_error_message">VLC je naletel na napako za to vsebino.\nPoskusite osvežiti knjižnico predstavnih vsebin.</string>
+    <string name="encountered_error_message">THDPlayer je naletel na napako za to vsebino.\nPoskusite osvežiti knjižnico predstavnih vsebin.</string>
     <string name="invalid_location">Posnetkov z mesta %1$s ni mogoče predvajati.</string>
     <string name="missing_location">Ta vsebina je z nosilca, ki ni na voljo, zato je ni mogoče predvajati.</string>
 
@@ -296,12 +296,12 @@
     <string name="hold_to_stop">Zadržite pritisk za zaustavitev</string>
 
     <!-- About -->
-    <string name="app_name_full">VLC za Android</string>
+    <string name="app_name_full">THDPlayer</string>
     <string name="revision">Predelava</string>
     <string name="about">O programu</string>
-    <string name="about_vlc_text">VLC za Android™ je prilagojena različica VLC predvajalnika, priljubljenega odprto-kodnega predvajalnika vsebin. Različica za Android™ zna brati vse vrste datotek in omrežnih pretokov.</string>
+    <string name="about_vlc_text">THDPlayer za Android™ je prilagojena različica THDPlayer predvajalnika, priljubljenega odprto-kodnega predvajalnika vsebin. Različica za Android™ zna brati vse vrste datotek in omrežnih pretokov.</string>
     <string name="authors">Avtorji</string>
-    <string name="vlc_authors">in avtorji programa VLC.</string>
+    <string name="vlc_authors">in avtorji programa THDPlayer.</string>
     <string name="is_compiled_by">Prevod kode</string>
     <string name="is_signed_by">Podpisal</string>
     <string name="sources">Izvorna koda</string>
@@ -463,7 +463,7 @@
     <string name="replaygain_track">Posnetek</string>
     <string name="replaygain_album">Album</string>
     <string name="aout">Odvod zvoka</string>
-    <string name="aout_summary">Spremeni metodo, ki jo VLC uporablja za predvajanje zvoka</string>
+    <string name="aout_summary">Spremeni metodo, ki jo THDPlayer uporablja za predvajanje zvoka</string>
     <string name="audio_ducking_title">Zmanjšaj glasnost ob prejemu sporočila</string>
     <string name="audio_ducking_summary">Možnost omogoča prilagajanje glasnosti obvestil, navigacijskega vodenja in drugih zvokov.</string>
     <string name="casting_category">Zasedba</string>
@@ -538,7 +538,7 @@
     <string name="clear_media_db">Počisti podatkovno zbirko predstavnih vsebin</string>
     <string name="clear_media_database_summary">Počisti bazo podatkov za nov začetek</string>
     <string name="clear_app_data">Počisti podatke aplikacije</string>
-    <string name="clear_app_data_summary">Pobriše podatke VLC za Android</string>
+    <string name="clear_app_data_summary">Pobriše podatke THDPlayer za Android</string>
     <string name="clear_history">Počisti zgodovino</string>
     <string name="clear_history_message">Zgodovina, seznami skladb in napredek bodo izbrisani</string>
     <string name="set_locale">Nastavitev jezikovnega področja</string>
@@ -564,7 +564,7 @@
     <string name="start_logging">Začni z beleženjem</string>
     <string name="stop_logging">Zaustavi beleženje</string>
     <string name="clear_log">Počisti dnevnik</string>
-    <string name="log_service_title">Beleženje dnevnikov VLC</string>
+    <string name="log_service_title">Beleženje dnevnikov >THDPlayer</string>
     <string name="log_service_text">Odpri konzolo dnevnika</string>
     <string name="copy_to_clipboard">Kopiraj v odložišče</string>
     <string name="copied_to_clipboard">Dnevnik je kopiran v odložišče.</string>
@@ -573,14 +573,14 @@
     <string name="dump_logcat_success">Dnevnik logcat je uspešno odložen v %1$s!</string>
     <string name="dump_logcat_failure">Odlaganje dnevnika logcat je spodletelo.</string>
     <string name="http_user_agent">HTTP uporabniški agent</string>
-    <string name="custom_libvlc_options">Prilagojene možnosti za libVLC</string>
-    <string name="custom_libvlc_options_invalid">Neveljavne možnosti za libVLC!</string>
+    <string name="custom_libvlc_options">Prilagojene možnosti za lib>THDPlayer</string>
+    <string name="custom_libvlc_options_invalid">Neveljavne možnosti za libTHDPlayer!</string>
     <string name="dav1d_thread_number">Dav1d številka niti</string>
     <string name="dav1d_thread_number_invalid">Napačna številka niti! (>=1)</string>
 
-    <string name="serious_crash">Prišlo do resne programske napake in predvajalnik VLC se je zaprl.</string>
-    <string name="help_us_send_log">Pomagajte izboljšati program VLC in pošljite poročilo o sesutju:</string>
-    <string name="restart_vlc">Ponovno zaženi VLC</string>
+    <string name="serious_crash">Prišlo do resne programske napake in predvajalnik THDPlayer se je zaprl.</string>
+    <string name="help_us_send_log">Pomagajte izboljšati program THDPlayer in pošljite poročilo o sesutju:</string>
+    <string name="restart_vlc">Ponovno zaženi >THDPlayer</string>
     <string name="send_log">Pošlji dnevnik</string>
     <string name="sending_log">Poteka pošiljanje dnevnika …</string>
 
@@ -619,14 +619,14 @@
     <string name="medialibrary_directories">Mape knjižnice predstavnih vsebin</string>
 
     <!--What's new-->
-    <string name="whats_new_title">Kaj je novega v VLC za Android %s</string>
-    <string name="whats_new_36_webserver_text">Nova možnost oddaljenega dostopa omogoča krmiljenje VLC za Android s poljubno napravo.\nPošljite vsebine v obe smeri, krmilite predvajanje in mnogo več!</string>
+    <string name="whats_new_title">Kaj je novega v THDPlayer za Android %s</string>
+    <string name="whats_new_36_webserver_text">Nova možnost oddaljenega dostopa omogoča krmiljenje THDPlayer za Android s poljubno napravo.\nPošljite vsebine v obe smeri, krmilite predvajanje in mnogo več!</string>
     <string name="whats_new_36_favorites_text">Sedaj lahko za priljubljene označite vsebine, sezname predvajanj, izvajalce ali albume.\nEnostavno najdite najljubše vsebine s pomočjo filtra za priljubljene!</string>
 
 <!--    update-->
     <string name="update_title">Na voljo je posodobitev</string>
     <string name="install_nightly_title">Namesti nočno različico</string>
-    <string name="update_text">Na voljo je nova nočna izdaja VLC za Android!\n\nTo sporočilo je prikazano, ker uporabljate nočno izdajo programa.</string>
+    <string name="update_text">Na voljo je nova nočna izdaja THDPlayer za Android!\n\nTo sporočilo je prikazano, ker uporabljate nočno izdajo programa.</string>
     <string name="install_text">Nočne izdaje se vsak dan samodejno posodobijo in vsebujejo najnovejše funkcije in popravke.\n\nPrenesem zdaj?*</string>
 
     <string name="open_in_browser">Odpri v brskalniku</string>
@@ -647,9 +647,9 @@
     <string name="music_now_playing">Trenutno se predvaja</string>
 
     <!-- Widget -->
-    <string name="widget_name_w">Beli VLC gradnik</string>
-    <string name="widget_name_b">Temni VLC gradnik</string>
-    <string name="widget_name_mini_player">VLC mini predvajalniki</string>
+    <string name="widget_name_w">Beli THDPlayer gradnik</string>
+    <string name="widget_name_b">Temni THDPlayer gradnik</string>
+    <string name="widget_name_mini_player">THDPlayer mini predvajalniki</string>
     <string name="widget_old_text">Naši gradniki so bili posodobljeni!</string>
     <string name="widget_old_description_start">Dobra novica! Uvedli smo izboljšane gradnike.\nSo bolj odzivni in jih mogoče jih je prilagajati po meri.</string>
     <string name="whats_next">Kako naprej?</string>
@@ -657,7 +657,7 @@
     <string name="click_here">Kliknite sem za več.</string>
     <string name="allow_storage_access_title">Dovoli programu dostop do datotek videa in zvoka</string>
     <string name="allow_storage_access_description">Program zahteva odobritev dostopa do predstavnih datotek na napravi.</string>
-    <string name="partial_content">VLC ne more dostopati do vseh datotek</string>
+    <string name="partial_content">THDPlayer ne more dostopati do vseh datotek</string>
     <string name="partial_content_description">Od različice Android 11 je potrebno aplikacijam podeliti posebno pravico, da smejo dostopati do vseh datotek.\n\n%s</string>
     <string name="never_ask_again">Tega več ne sprašuj</string>
     <string name="never_show_again">Tega ne prikaži več - niti za prihodnje različice</string>
@@ -667,8 +667,8 @@
     <string name="allow_settings_access_brightness_description">Program zahteva odobritev nastavitve spreminjanja načina svetlosti.</string>
     <string name="allow_draw_overlays_title">Dovoli pojavna okna predvajalnika</string>
     <string name="allow_sdraw_overlays_description">Program zahteva odobritev nastavitve za prikaz pojavnih oken prek oken drugih programov.</string>
-    <string name="allow_pip">Dovoli, da VLC zažene sliko v sliki</string>
-    <string name="allow_pip_description">VLC potrebuje vašre dovljenje za prikaz videa v načinu slika v sliki.</string>
+    <string name="allow_pip">Dovoli, da THDPlayer zažene sliko v sliki</string>
+    <string name="allow_pip_description">THDPlayer potrebuje vašre dovljenje za prikaz videa v načinu slika v sliki.</string>
     <string name="permission_ask_again">Odobri dovoljenje</string>
     <string name="pick_file">Izberite datoteko</string>
     <string name="permission_not_granted">Dovoljenje ni bilo podano</string>
@@ -677,9 +677,9 @@
     <string name="permission_onboarding_no_perm">Samodejno odkrivanje vsebin ne bo mogoče.\nLahko boste predvajali zgolj pretočne in mrežne vsebine</string>
     <string name="permission_onboarding_perm_media">Samodejno odkrivanje bo mogoče le za standardne medijske datoteke</string>
     <string name="permission_onboarding_perm_all">Samodejno odkrivanje je omogočeno za vse datoteke in vrste vsebin, tudi čudne ali stisnjene</string>
-    <string name="exit_app">Končaj VLC</string>
-    <string name="exit_app_msg">Ali res želite končati program VLC?</string>
-    <string name="widget_explanation_title">VLC gradnik</string>
+    <string name="exit_app">Končaj >THDPlayer</string>
+    <string name="exit_app_msg">Ali res želite končati program THDPlayer?</string>
+    <string name="widget_explanation_title">THDPlayer gradnik</string>
     <string name="widget_explanation_size">Gradniki so različnih velikosti in oblik</string>
     <string name="widget_explanation_resize">Za spremembo vrste gradnika uporabite dolgi pritisk nanj, nato pa uporabite ročice za določitev velikosti</string>
     <string name="widget_explanation_end">Gradniki so zelo prilagodljivi. Sprostite svojo kreativnost in jim vdahnite svojo podobo!</string>
@@ -752,8 +752,8 @@
     <string name="browser_storages">Shrambe</string>
     <string name="msg_delete_failed">Brisanje vsebine %1$s je spodletelo.</string>
     <string name="renderer_list_title">Zasloni</string>
-    <string name="sdcard_permission_dialog_title">VLC potrebuje dovoljenje za dostop do SD kartice</string>
-    <string name="sdcard_permission_dialog_message">VLC ne more izbrisati te datoteke, če nima pravice pisanja na kartico.\nPojdite na SD kartico in kliknite na \"Izberi\".\nMorda boste morali najprej klikniti na \"Prikaži SD kartico\" v meniju zgoraj desno.</string>
+    <string name="sdcard_permission_dialog_title">THDPlayer potrebuje dovoljenje za dostop do SD kartice</string>
+    <string name="sdcard_permission_dialog_message">THDPlayer ne more izbrisati te datoteke, če nima pravice pisanja na kartico.\nPojdite na SD kartico in kliknite na \"Izberi\".\nMorda boste morali najprej klikniti na \"Prikaži SD kartico\" v meniju zgoraj desno.</string>
     <string name="dialog_sd_wizard">Pokaži</string>
     <string name="renderers_disconnect">Prekini povezavo</string>
     <string name="audio_digital_failed">Sprememba stanja digitalnega izhoda zvoka ni uspela</string>
@@ -768,7 +768,7 @@
     <string name="playback_rewind">Previj nazaj</string>
     <string name="playback_forward">Naprej</string>
     <string name="ml_wizard_scan_checkbox">Poišči predstavne vsebine na napravi</string>
-    <string name="ml_wizard_description">Izberite ali bo VLC pregledal podatkovne nosilce vaše naprave, da uredi knjižnico predstavnih vsebin, ali ga boste  uporabljali zgolj kot preprost predvajalnik z vgrajenim brskalnikom.</string>
+    <string name="ml_wizard_description">Izberite ali bo THDPlayer pregledal podatkovne nosilce vaše naprave, da uredi knjižnico predstavnih vsebin, ali ga boste  uporabljali zgolj kot preprost predvajalnik z vgrajenim brskalnikom.</string>
     <string name="tv_my_new_videos">Moji novi posnetki</string>
     <string name="cast_option_title">Predvajaj vsebine na drugem zaslonu</string>
     <string name="otg_device_title">Naprava OTG</string>
@@ -805,26 +805,26 @@
     <string name="ctx_player_subs_track">Steza s podnapisi</string>
     <string name="ctx_pip_title">Prikazni predvajalnik</string>
     <string name="device_dialog_title">Vstavljena je zunanja naprava</string>
-    <string name="device_dialog_message">Na svojo TV napravo ste priključili podatkovni nosilec. Ali ga želite odpreti z VLC?</string>
+    <string name="device_dialog_message">Na svojo TV napravo ste priključili podatkovni nosilec. Ali ga želite odpreti z THDPlayer?</string>
     <string name="videos_folders_title">Videi po mapah</string>
     <string name="videos_groups_title">Video skupine</string>
     <string name="video_save_clone_mode">Samodejni vklop načina podvojitve?</string>
     <string name="video_remote_enable">Preklopi na daljinsko upravljanje</string>
     <string name="video_remote_disable">Podvoji zaslon</string>
     <string name="removed_from_playlist_anonymous">Predmet(i) so bili odstranjeni s seznama predvajanja</string>
-    <string name="welcome_title">Dobrodošli v VLC!</string>
+    <string name="welcome_title">Dobrodošli v THDPlayer!</string>
     <string name="welcome_subtitle">Brezplačen, odprtokodni večpredstavni predvajalnik</string>
-    <string name="permission_media">VLC potrebuje dovoljenje za dostop do vsebin na vaši napravi</string>
-    <string name="medialibrary_scan_explanation">VLC lahko sam pregleda vaše naprave, da uredi zbirko predstavnih vsebin.</string>
+    <string name="permission_media">THDPlayer potrebuje dovoljenje za dostop do vsebin na vaši napravi</string>
+    <string name="medialibrary_scan_explanation">THDPlayer lahko sam pregleda vaše naprave, da uredi zbirko predstavnih vsebin.</string>
     <string name="onboarding_theme_title">Počutite se kot doma</string>
     <string name="done">Končano</string>
     <string name="onboarding_scan_title">Samodejno odkrivanje predstavnih vsebin</string>
-    <string name="onboarding_all_set">VLC je pripravljen!</string>
+    <string name="onboarding_all_set">THDPlayer je pripravljen!</string>
     <string name="onboarding_permission_given">Sedaj lahko uporabite samodejno odkrivanje vsebin, uporabiljate zunanje podnapise, lahko pa tudi predvajate pretoke ali omrežne vsebine</string>
-    <string name="daynight_system_explanation">VLC bo samodejno preklopil v temni način, glede na nastavitve sistema</string>
-    <string name="daynight_legacy_explanation">VLC bo samodejno preklopil v nočni način ob ustrezni ure</string>
-    <string name="onboarding_scanning_enable">Naj VLC poišče predstavne vsebine na moji napravi</string>
-    <string name="onboarding_scan_customize">Izberi mape, ki jih bo VLC pregledal</string>
+    <string name="daynight_system_explanation">THDPlayer bo samodejno preklopil v temni način, glede na nastavitve sistema</string>
+    <string name="daynight_legacy_explanation">THDPlayer bo samodejno preklopil v nočni način ob ustrezni ure</string>
+    <string name="onboarding_scanning_enable">Naj THDPlayer poišče predstavne vsebine na moji napravi</string>
+    <string name="onboarding_scan_customize">Izberi mape, ki jih bo THDPlayer pregledal</string>
     <string name="button_medialibrary_preferences">Pojdite na nastavitve knjižnice predstavnih vsebin</string>
     <string name="light_theme">Svetla tema</string>
     <string name="add">Dodaj</string>
@@ -868,15 +868,15 @@
     <string name="display_in_grid">Prikaži v mreži</string>
     <string name="dump_db_succes">Podatkovna baza je bila skopirana v notranji korenski pomnilnik</string>
     <string name="dump_db_failure">Posneta podatkovne baze ni bilo mogoče ustvariti</string>
-    <string name="send_crash_title">VLC javljalnik sesutja</string>
-    <string name="send_crash_description">S pošiljanjem podatkov o sesutju nam pomagate izboljšati zanesljivost delovanja VLC.</string>
+    <string name="send_crash_title">THDPlayer javljalnik sesutja</string>
+    <string name="send_crash_description">S pošiljanjem podatkov o sesutju nam pomagate izboljšati zanesljivost delovanja THDPlayer.</string>
     <string name="send_crash_warning">Poskrbite, da odstranite občutljive podatke, ki jih ne želite poslati.</string>
     <string name="include_medialib">Vključi podatkovno bazo</string>
-    <string name="vlc_reporter">VLC javljalnik</string>
-    <string name="welcome_beta_title">VLC beta</string>
-    <string name="welcome_beta_description">Dobrodošli v programu VLC beta.\nProsimo upoštevajte, da ima lahko ta različica nekatere hrošče.</string>
+    <string name="vlc_reporter">THDPlayer javljalnik</string>
+    <string name="welcome_beta_title">THDPlayer beta</string>
+    <string name="welcome_beta_description">Dobrodošli v programu THDPlayer beta.\nProsimo upoštevajte, da ima lahko ta različica nekatere hrošče.</string>
     <string name="welcome_beta_description_bugs">Če opazite hrošča, ga prosim javite na našem forumu ali v sledilniku hroščev.</string>
-    <string name="welcome_beta_description_crashes">Če se program sesuje, uporabite ikono VLC javljalnika v zagonski vrstici, da nas obvestite.</string>
+    <string name="welcome_beta_description_crashes">Če se program sesuje, uporabite ikono THDPlayer javljalnika v zagonski vrstici, da nas obvestite.</string>
     <string name="send">Pošlji</string>
     <string name="send_crash_action_title">Kaj želite storiti?</string>
     <string name="report_a_bug">Prijavi hrošča</string>
@@ -917,8 +917,8 @@
     <string name="recently_played">Nedavno predvajano</string>
     <string name="recently_added">Nedavno dodano</string>
     <string name="playback_multiple_errors">Ni mogoče predvajati več predstavnih vsebin hkrati</string>
-    <string name="clear_media_db_message">Napredki, zaznamki in seznami predvajanj, ki ste jih ustvarili, ne bodo ohranjeni, bodo pa ohranjene nastavitve za VLC za Android</string>
-    <string name="clear_app_data_message">Izgubili boste napredek, zaznamke, sezname predvajanj in vse VLC nastavitve</string>
+    <string name="clear_media_db_message">Napredki, zaznamki in seznami predvajanj, ki ste jih ustvarili, ne bodo ohranjeni, bodo pa ohranjene nastavitve za THDPlayer za Android</string>
+    <string name="clear_app_data_message">Izgubili boste napredek, zaznamke, sezname predvajanj in vse THDPlayer nastavitve</string>
     <string name="clear">Počisti</string>
     <string name="abrepeat_add_first_marker">Določi začetno točko</string>
     <string name="abrepeat_add_second_marker">Določi končno točko</string>
@@ -972,18 +972,18 @@
     <string name="sub_result_by_name_season">Sezona %s</string>
     <string name="sub_result_by_name_episode">Epizoda %s</string>
     <string name="sub_result_by_file">Rezultati za datoteko</string>
-    <string name="donate">Pomgajte VLC</string>
-    <string name="donate_desc">Podprite prostovoljce, ki ustvarjajo VLC</string>
+    <string name="donate">Pomgajte >THDPlayer</string>
+    <string name="donate_desc">Podprite prostovoljce, ki ustvarjajo >THDPlayer</string>
     <string name="donate_subscribtion">Želim, da je to mesečno sponzorstvo</string>
     <string name="donate_send">Začni sponzorstvo</string>
-    <string name="donation_description">Vaše sponzorstvo na bo omogočila:\nizboljšati aplikacijo VLC za Android\nPodpreti združenje VideoLAN</string>
+    <string name="donation_description">Vaše sponzorstvo na bo omogočila:\nizboljšati aplikacijo THDPlayer za Android\nPodpreti združenje THDMedia</string>
     <string name="subscription_purchased">Naročeni ste na mesečno sponzorstvo</string>
     <string name="subscription_cancel">Odjavite se lahko v Trgovini Play</string>
     <string name="subscription_cancel_tv">Kako se odjaviti?</string>
     <string name="donate_unsubscribe_tv">Za odjavo odprite %s na telefonu ali računalniku, ali pa preberite to kodo:</string>
-    <string name="tip_jar">Pomagajte VLC</string>
+    <string name="tip_jar">Pomagajte >THDPlayer</string>
     <string name="thank_you">Hvala</string>
-    <string name="thank_you_desc">Hvala za vaše sponzorstvo!\nPomagalo nam bo izboljšati VLC!</string>
+    <string name="thank_you_desc">Hvala za vaše sponzorstvo!\nPomagalo nam bo izboljšati THDPlayer!</string>
     <string name="donate_again">Ponovno sponzoriraj aplikacijo</string>
 
     <string name="mark_as_played">Označi kot predvajano</string>
@@ -1001,7 +1001,7 @@
     <string name="air_action_next">Naslednji predmet predvajanja</string>
     <string name="air_action_previous">Prejšnji predmet predvajanja</string>
     <string name="allow_otg">Dovoli OTG dostop</string>
-    <string name="allow_otg_description">Izberite OTG pogon, da dovolite dostop VLCju.</string>
+    <string name="allow_otg_description">Izberite OTG pogon, da dovolite dostop THDPlayerju.</string>
     <string name="timeout_infinite">Neskončno</string>
     <string name="video_hud_timeout">Čas preden se nadzorne tipke predvajanja skrijejo</string>
     <string name="video_hud_timeout_summary">%ss</string>
@@ -1065,7 +1065,7 @@
     <string name="optional_features_warning">Ta funkcija je v beta fazi in lahko povzroči nestabilnosti</string>
     <string name="network_indexing">Omrežno indeksiranje</string>
     <string name="network_indexing_warning">Omrežno indeksiranje je trenutno v preizkusni fazi.\nZnane težave:\n• Počasno delovanje\n\nČe naletite na druge težave jih prijavite preko našega foruma.</string>
-    <string name="start_vlc">Zaženi VLC</string>
+    <string name="start_vlc">Zaženi >THDPlayer</string>
     <string name="jump_delay">Zakasnitev za naprej/nazaj</string>
     <string name="long_jump_delay">Zakasniteb dolgega tapa za naprej/nazaj</string>
     <string name="jump_delay_summary">%s sekund</string>
@@ -1084,7 +1084,7 @@
     <string name="lock_use_sensor_summary">Kadar je oprientacija zaklenjena, uporabi senzor, kar omogoča obratno orientacijo</string>
     <string name="start">Zaženi</string>
     <string name="notification_permission">Dovoljenje za obveščanje</string>
-    <string name="notification_permission_explanation">VLC potrebuje dovoljenje za pošiljanje obvestil.\nAplikacija vas bo obvestila le ob pregledovanju vsebin ali ob uporabi slike v sliki.\nZavrnitev dovoljenja ne bo preprečila delovanja VLC, bodo pa obvestila ostala skrita.</string>
+    <string name="notification_permission_explanation">THDPlayer potrebuje dovoljenje za pošiljanje obvestil.\nAplikacija vas bo obvestila le ob pregledovanju vsebin ali ob uporabi slike v sliki.\nZavrnitev dovoljenja ne bo preprečila delovanja THDPlayer, bodo pa obvestila ostala skrita.</string>
     <string name="permission">Dovoljenje</string>
     <string name="customize">Prilagodi</string>
     <string name="selection_count">%d izbrano</string>
@@ -1149,7 +1149,7 @@
     <string name="widget_show_configure_summary">Četudi ni prikazan, lahko tapnete na zgornji desni kot, da odprete nastavitve</string>
     <string name="seek_backward_content_description">Preskoči %s sekund nazaj</string>
     <string name="seek_forward_content_description">Preskoči %s sekund naprej</string>
-    <string name="open_vlc">Odpri VLC</string>
+    <string name="open_vlc">Odpri >THDPlayer</string>
     <string name="playing">Predvajanje</string>
     <string name="disable_track">Onemogoči skladbo</string>
     <string name="ascending">Naraščajoče</string>
@@ -1248,7 +1248,7 @@
     <string name="ra_otp_subtitle">Če ste to vi, vnesite to kodo na drugi napravi</string>
     <string name="ra_otp_not_me">To nisem jaz</string>
 
-    <string name="ra_onboarding_welcome_desc">Dobrodošli v oddaljenem dostopu za VLC za Android.\nZ vklopom tega je mogoče nadzorovati predvajanje te naprave in več.</string>
+    <string name="ra_onboarding_welcome_desc">Dobrodošli v oddaljenem dostopu za THDPlayer za Android.\nZ vklopom tega je mogoče nadzorovati predvajanje te naprave in več.</string>
     <string name="ra_onboarding_how_title">Nadzorujte napravo</string>
     <string name="ra_onboarding_how_desc">Nadzorujte predvajanje naprave, pošljite ali pridobite datoteke in več</string>
     <string name="ra_onboarding_ssl_title">Šifriranje podatkov</string>
@@ -1274,7 +1274,7 @@
     <string name="podcast_mode">Podkast način</string>
     <string name="podcast_mode_help">Krmilniki za podkaste se pojavijo ob predvajanju posnetka, ki ustreza enemu od naslednjih kriterijev:\nt• Dolžna večja od 60 min\n\t• Dolžina večja od 15 min brez imena albuma\n\t• Zvrst je %s</string>
     <string name="voice_control">Glasovni nadzor</string>
-    <string name="voice_control_help">VLC je mogoče nadzorovati preko Google Assistant z izgovorjavo naslednjih ukazov:\n\t• Play, Pause, Stop, Previous, Next\n\t• Rewind, Fast Forward, Repeat &lt;all|one|off&gt;\n\t• Jump to &lt;time&gt;, Skip &lt;duration&gt;\n\t• What\'s this &lt;artist|album|song&gt;\n\t• Play [artist|album|song|genre|playlist] &lt;name&gt;</string>
+    <string name="voice_control_help">THDPlayer je mogoče nadzorovati preko Google Assistant z izgovorjavo naslednjih ukazov:\n\t• Play, Pause, Stop, Previous, Next\n\t• Rewind, Fast Forward, Repeat &lt;all|one|off&gt;\n\t• Jump to &lt;time&gt;, Skip &lt;duration&gt;\n\t• What\'s this &lt;artist|album|song&gt;\n\t• Play [artist|album|song|genre|playlist] &lt;name&gt;</string>
 
     <string name="network" >Omrežje</string>
     <string name="metered_connection">Dejanja za pretoke, ko se meri povezava</string>
