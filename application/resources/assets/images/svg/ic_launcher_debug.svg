@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    id="svg3075"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon_debug.svg">
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="ic_launcher_debug.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3077">
     <linearGradient
@@ -243,15 +243,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="15.802476"
-     inkscape:cy="14.417488"
+     inkscape:cx="16.156249"
+     inkscape:cy="23.437499"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1054"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-grids="false"
      inkscape:snap-bbox="true"
@@ -266,14 +266,22 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3026"
        empspacing="4"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata3080">
@@ -283,7 +291,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
         <cc:license
            rdf:resource="" />
       </cc:Work>
@@ -294,36 +301,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <g
-       id="g3158"
-       transform="matrix(3.2814457,0,0,3.2814457,1.9860072,-2409.9574)">
-      <g
-         transform="matrix(0.02889811,0,0,0.02889811,-0.6892899,1040.4084)"
-         id="g4807"
-         clip-path="url(#clipPath4813)">
-        <path
-           id="path4795"
-           d="m 256,24 c -10,0 -16.56131,4.444363 -22,10 -7.51989,7.681589 -14,30 -14,30 l -84,252 -34,0 c -10.63636,0 -20.71454,9.30699 -24,20 L 43,456 c -4.67669,16.03434 -3,31.99999 19,32 l 194,0 194,0 c 22,-10e-6 23.67669,-15.96566 19,-32 L 434,336 c -3.28546,-10.69301 -13.36364,-20 -24,-20 l -34,0 -84,-252 c 0,0 -6.48011,-22.318411 -14,-30 -5.43869,-5.555637 -12,-10 -22,-10 z"
-           style="fill:#16dfb1;fill-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4790"
-           d="m 376,316 c 0,0 5.33596,15.99774 8,24 3.86569,11.61172 5.72158,17.44905 -0.0566,24.10156 C 352.00038,395.99957 301.0881,408.013 256,408 210.88287,407.987 160.2209,395.52936 128,364 l 116,116 -200.46875,0 c 2.987307,4.87249 8.73663,8 18.46875,8 l 194,0 194,0 c 22,-10e-6 23.67669,-15.96566 19,-32 L 434,336 c -3.28546,-10.69301 -13.36364,-20 -24,-20 l -34,0 z"
-           style="fill:#00bfa5;fill-opacity:1" />
-        <path
-           id="path3151-2-6-0"
-           sodipodi:nodetypes="cacccccssacsccacc"
-           inkscape:connector-curvature="0"
-           d="m 184,172 c 24,18 46.36799,27 72,27 25.63201,0 48,-9 72,-27 48,0 32,-108 -28,-84 -33.16814,17.49548 -55.99922,15.99974 -88,0 -60,-24 -76,84 -28,84 z m -48,144 c 0,0 -5.33263,16.0004 -8,24 -4.00162,12.00101 -6.03383,18.09576 0,24 32.2209,31.52936 82.88287,43.98701 128,44 45.0881,0.013 96,-12 127.94294,-43.89801 C 389.7212,357.44948 387.86569,351.61172 384,340 c -2.66404,-8.00226 -8,-24 -8,-24 28,0 0,-68 -16,-48 -32,32 -66.85763,40 -104,40 -37.14237,0 -72,-8 -104,-40 -16,-16 -44,48 -16,48 z"
-           style="fill:#fafafa" />
-        <path
-           sodipodi:nodetypes="sssss"
-           inkscape:connector-curvature="0"
-           id="path4246"
-           d="m 152,312 c -16.66494,51.58194 52.97315,57.34558 59.63772,19.87924 L 260,60 c 4.46875,-25.122067 -15.31793,-34.873087 -24,-8 z"
-           style="opacity:0.6;fill:#ffffff;fill-opacity:0.31372549;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      </g>
-    </g>
+    <path
+       d="m 25.905835,1027.449 7.564503,-6.9051 -24.4330622,-12.535 c -1.6193212,-0.7987 -3.1363151,-0.9106 -4.4665608,-0.036 z m 8.853819,8.0845 7.863808,-4.0377 c 1.5349,-0.7845 2.376538,-1.8961 2.376538,-3.129 0,-1.2305 -0.841638,-2.3446 -2.373981,-3.129 l -7.11938,-3.65 -8.014741,7.3137 z M 3.2558165,1009.6694 C 3.092093,1010.1292 3,1010.643 3,1011.2057 v 34.3384 c 0,0.8899 0.214885,1.6557 0.603728,2.2654 l 20.713484,-18.9102 z m 22.6500185,20.6775 -20.5983678,18.8051 c 0.3939581,0.1382 0.8186154,0.2102 1.2662923,0.2102 0.798151,0 1.629553,-0.2148 2.4763084,-0.6446 L 32.725911,1036.582 Z"
+       id="path1"
+       style="fill:#00bfa5;fill-opacity:1;fill-rule:evenodd;stroke-width:2.44411;paint-order:stroke fill markers" />
   </g>
 </svg>
